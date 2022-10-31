@@ -404,10 +404,10 @@ class TitleState extends MusicBeatState
 				if (Main.watermarks)
 					createCoolText(['Kade Engine', 'by']);
 				else
-					createCoolText(['In Partnership', 'with']);
+					createCoolText(['made', 'with']);
 			case 7:
 				if (Main.watermarks)
-					addMoreText('KadeDeveloper');
+					addMoreText('xd rice and MaxWithAnotherx');
 				else
 				{
 					addMoreText('Newgrounds');
